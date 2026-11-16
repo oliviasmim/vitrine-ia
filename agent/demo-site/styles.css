@@ -51,7 +51,7 @@ body {
 
 /* PROBLEMA 1 (contraste): cinza claro demais sobre fundo claro. */
 .hero-subtitle {
-  color: #c3bcb2;
+  color: #6b5b4e;
   font-size: 18px;
   max-width: 520px;
   margin: 0 auto 32px;

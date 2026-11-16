@@ -1,6 +1,6 @@
-[agent] issue #1 "Adicionar hover state no CTA"
+[agent] issue #2 "Corrigir contraste do subtítulo"
 [agent] provedor=anthropic modelo=claude-haiku-5-5
-[agent] branch=agent/issue-1 allowlist=agent/demo-site/
-[agent] sucesso=true tentativas=1 tokens=10555
+[agent] branch=agent/issue-2 allowlist=agent/demo-site/
+[agent] sucesso=true tentativas=1 tokens=11633
 [agent] arquivos: agent/demo-site/styles.css
 [agent] relatório em agent-report.json
