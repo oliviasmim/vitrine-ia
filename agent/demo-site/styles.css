@@ -57,7 +57,6 @@ body {
   margin: 0 auto 32px;
 }
 
-/* PROBLEMA 2 (interaction-states): o CTA não tem nenhum estado de hover. */
 .cta {
   display: inline-block;
   background: var(--accent);
@@ -66,6 +65,11 @@ body {
   border-radius: 8px;
   text-decoration: none;
   font-size: 17px;
+  transition: background-color 150ms ease;
+}
+
+.cta:hover {
+  background: #9a3412;
 }
 
 .cardapio {

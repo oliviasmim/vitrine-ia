@@ -1,0 +1,19 @@
+{
+  "issueNumber": 1,
+  "branch": "agent/issue-1",
+  "provider": "anthropic",
+  "modelId": "claude-haiku-5-5",
+  "success": true,
+  "attempts": 1,
+  "totalTokens": 10555,
+  "stoppedByBudget": false,
+  "changedFiles": [
+    "agent/demo-site/styles.css"
+  ],
+  "summary": "Adicionei `.cta:hover` em `agent/demo-site/styles.css` com fundo `#9a3412` (mais escuro que o `--accent`) e `transition: background-color 150ms ease;` no `.cta`, para dar retorno visual ao passar o mouse sobre o botão \"Ver cardápio\". Os outros dois problemas marcados no arquivo (contraste e estado vazio) não foram alterados.",
+  "lastVerification": {
+    "ok": true,
+    "failedCommand": null,
+    "output": "todos os comandos passaram"
+  }
+}

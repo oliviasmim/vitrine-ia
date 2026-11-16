@@ -1,0 +1,6 @@
+[agent] issue #1 "Adicionar hover state no CTA"
+[agent] provedor=anthropic modelo=claude-haiku-5-5
+[agent] branch=agent/issue-1 allowlist=agent/demo-site/
+[agent] sucesso=true tentativas=1 tokens=10555
+[agent] arquivos: agent/demo-site/styles.css
+[agent] relatório em agent-report.json
